@@ -1,5 +1,5 @@
-## spark-kafka-tweet
-#A project to learn about processing live data streams using Spark’s streaming APIs, Apache Kafka and Python
+
+# A project to learn about processing live data streams using Spark’s streaming APIs, Apache Kafka and Python
 
 In this project, for processing streaming data in real time, one of the first requirements is to get access to the streaming data; in this case, real­time tweets. Twitter provides a very convenient API to fetch tweets in a streaming manner. In addition, this project will also be using Kafka to buffer the tweets before processing. Kafka provides a distributed queuing service which can be used to store the data when the data creation rate is more than processing rate.
 
