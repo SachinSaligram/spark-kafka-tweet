@@ -1,0 +1,5 @@
+[DEFAULT]
+consumerKey = “Your consumerKey”
+consumerSecret = “Your consumerSecret”
+accessToken = “Your accessToken”
+accessTokenSecret = “Your accessTokenSecret”
